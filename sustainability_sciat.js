@@ -21,7 +21,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
                 {word: 'Sustainable packaging'},
                 {word: 'Fair trade'}
             ],
-            css : {color:'#31b404','font-size':'3em'}
+            css : {color:'#000000','font-size':'3em'}
         },
         
         attribute1 : {
@@ -43,7 +43,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
                 {word: 'Redundant'},
                 {word: 'Fatigued'}
             ],
-            css : {color:'#FF0000','font-size':'3em'}
+            css : {color:'#000000','font-size':'3em'}
         },
         
         attribute2 : {
@@ -65,7 +65,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
                 {word: 'Innovative'},
                 {word: 'Stimulated'}
             ],
-            css : {color:'#31b404','font-size':'3em'}
+            css : {color:'#000000','font-size':'3em'}
         },
 
         base_url : {
