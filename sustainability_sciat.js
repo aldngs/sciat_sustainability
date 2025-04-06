@@ -6,7 +6,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
             name : 'Sustainability', 
             title : {
                 media : {word : 'Sustainability'},
-                css : {color:'#31b404','font-size':'2em'},
+                css : {color:'#1E90FF','font-size':'2em'},
                 height : 7
             }, 
             media : [
