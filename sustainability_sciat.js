@@ -11,14 +11,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
             }, 
             media : [
                 {word: 'Eco-friendly'},
-                {word: 'Renewable energy'},
+                {word: 'Renewable'},
                 {word: 'Recycle'},
                 {word: 'Plastic-free'},
                 {word: 'Conservation'},
-                {word: 'Organic products'},
                 {word: 'Climate action'},
                 {word: 'Carbon footprint'},
-                {word: 'Sustainable packaging'},
                 {word: 'Fair trade'}
             ],
             css : {color:'#000000','font-size':'3em'}
@@ -32,16 +30,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
                 height : 7
             },
             media : [
-                {word: 'Tired'},
                 {word: 'Exhausted'},
-                {word: 'Repetitive'},
                 {word: 'Overwhelmed'},
-                {word: 'Drained'},
+                {word: 'Repetitive'},
                 {word: 'Tedious'},
-                {word: 'Monotonous'},
-                {word: 'Bored'},
-                {word: 'Redundant'},
-                {word: 'Fatigued'}
+                {word: 'Weary'},
+                {word: 'Depleted'}
             ],
             css : {color:'#000000','font-size':'3em'}
         },
@@ -54,16 +48,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
                 height : 7
             },
             media : [
-                {word: 'Energized'},
-                {word: 'Inspired'},
-                {word: 'Invigorated'},
-                {word: 'Fresh'},
-                {word: 'Empowered'},
-                {word: 'Engaged'},
-                {word: 'Thriving'},
-                {word: 'Optimistic'},
-                {word: 'Innovative'},
-                {word: 'Stimulated'}
+             {word: 'Exhausted'},
+                {word: 'Overwhelmed'},
+                {word: 'Repetitive'},
+                {word: 'Tedious'},
+                {word: 'Weary'},
+                {word: 'Depleted'}
             ],
             css : {color:'#000000','font-size':'3em'}
         },
