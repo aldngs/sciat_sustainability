@@ -48,12 +48,13 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
                 height : 7
             },
             media : [
-             {word: 'Exhausted'},
-                {word: 'Overwhelmed'},
-                {word: 'Repetitive'},
-                {word: 'Tedious'},
-                {word: 'Weary'},
-                {word: 'Depleted'}
+                {word: 'Energized'},
+                {word: 'Inspired'},
+                {word: 'Excited'},
+                {word: 'Empowered'},
+                {word: 'Engaged'},
+                {word: 'Invigorated'}
+
             ],
             css : {color:'#000000','font-size':'3em'}
         },
